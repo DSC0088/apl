@@ -9,6 +9,8 @@ https://github.com/DSC0088/apl-front
 ## БД
 apl-test.sql
 
+
+## Инструкция
 1. Создать БД apl-test, сделать импорт apl-test.sql 
 
 2. 
