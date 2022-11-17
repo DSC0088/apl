@@ -1,4 +1,4 @@
-
+![alt text](https://github.com/DSC0088/apl/blob/main/screen.png)
 
 ## Бэкенд
 https://github.com/DSC0088/apl-back
