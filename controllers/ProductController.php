@@ -7,6 +7,11 @@ use yii\web\Controller;
 use yii\db\Query;
 
 class ProductController extends Controller {
+	
+	public function actionMain() {
+		echo 'apl-test backend';
+		exit;
+	}
 
     public static function allowedDomains(){
         return [            
